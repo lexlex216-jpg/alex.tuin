@@ -3,7 +3,7 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
-![alt text](image.png)
+woensdag 2 september ![alt text](image.png)
 in deze work shop hebben wij op basis van plaatjes van dolly parten woorden moeten opschrijven daar dan weer de belangerijkste worden van moeten opschrijven en daar dan ook tekens bij maken dan daar de belangerijkste 
 
 ### [...]
