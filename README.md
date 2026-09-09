@@ -14,7 +14,7 @@ Mijn Digital Garden – De geschiedenis van videogames
 Voor mijn Digital Garden wil ik het hebben over de **geschiedenis van videogames**. Ik vind het interessant om te zien hoe games door de jaren heen zijn veranderd. Vroeger had je bijvoorbeeld simpele games zoals *Pong*, terwijl je nu enorme open-world games en VR-games hebt. Ik vind het vooral interessant om te kijken hoe technologie ervoor heeft gezorgd dat games steeds uitgebreider zijn geworden.
 
 - Toon en doel
-Ik wil dat mijn website een beetje **speels en persoonlijk** aanvoelt. Het moet niet voelen alsof je een Wikipedia-pagina aan het lezen bent. Ik wil naast de informatie ook mijn eigen mening en ervaringen met games erin verwerken.
+Ik wil dat mijn website een beetje speels en persoonlijk aanvoelt. Het moet niet voelen alsof je een Wikipedia-pagina aan het lezen bent. Ik wil naast de informatie ook mijn eigen mening en ervaringen met games erin verwerken.
 
 Mijn doel is vooral om de geschiedenis van videogames op een leuke manier te laten zien. Ik wil dat iemand door de website kan rondkijken en steeds nieuwe dingen ontdekt, in plaats van alleen maar een lange tekst te lezen.
 
@@ -50,15 +50,26 @@ Ik wil verder gaan dan alleen tekst en afbeeldingen. De bezoeker moet de geschie
 
 Bijvoorbeeld door:
 
-* 🎮 oude gamegeluiden te gebruiken;
-* 🕹️ pixel-art en oude gamebeelden te laten zien;
-* 🕰️ een interactieve tijdlijn te maken;
-* ✨ animaties te gebruiken bij belangrijke momenten;
-* 🖱️ onderdelen klikbaar te maken zodat je zelf dingen kunt ontdekken.
+* oude gamegeluiden te gebruiken;
+* pixel-art en oude gamebeelden te laten zien;
+* een interactieve tijdlijn te maken;
+* animaties te gebruiken bij belangrijke momenten;
+* onderdelen klikbaar te maken zodat je zelf dingen kunt ontdekken.
 
 Ook zou ik het leuk vinden als verschillende periodes hun eigen uitstraling krijgen. Een pagina over de jaren 80 kan bijvoorbeeld veel meer een retro/pixel-uitstraling hebben, terwijl een pagina over moderne games er juist futuristischer uitziet.
 
 Uiteindelijk wil ik dat mijn Digital Garden voelt als een soort **kleine interactieve reis door de geschiedenis van videogames**, waarin je niet alleen informatie leest, maar ook zelf dingen kunt ontdekken.
+
++ ik heb vandaag de html presentatie gemaakt 
+
+9/9 
+vandaag hebben we een visual thinking gedaan 
+ik heb hier best wat aan gehad ik had als sfeer woord(en):nostalgische, new scool, ontwikkelling (evolutionair) gekozen en dit als omschrijving: Ik kies dit woord(en) omdat: mijn onderwerp game geschiedenis dus je zal
+als je al lang video spellen speelt of dat uberhaupt doet heel wat nostalgiesche dingen voorbij zien komen maar natuurlijk ook recente spellen want ik wil de gehelen tijdlijn behandelen tot het heden 
+
+de eerste stap was 
+
+
 
 ### [...]
 
