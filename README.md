@@ -89,6 +89,17 @@ en uitwiedleijk hebben wij hier een crazy 8 op gedaan die zal ik ook toevoegen
 
 vrijdag zal mijn werk erop gezet worden want vgm is er wat mis gegaan met het linken van mijn vs code met git hub want kan wel typen maar geen werk hier aan toevoegen qua plaatjes
 
+Check-out
+Leg uit waar het Visual Research in 3 stappen naartoe werkt
+het visualieseren van een idee uit een sfeer word dus je begint bij heel veel plaatjes zoeken daarna probeer je die plaatjes i typografie kleuren en expresiie te uiten en als laatsen ga je daarme een crazy 8 doen om zo ideene te formuleren 
+
+Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+ik wil in mijn garden de evolutie van games en consoles laten zien door middel van een tijd lijn met aniematies kleuren en dingen die bij de aangedeuten tijd perken passen 
+
+Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+mijn 6e idee vind die het leuskt hij is nu erg snel geshcetst maar wil een informatiefen pagina make met game personages die als je er op klikt vertellen hoe zij vroeger war en tegewoordig om zo de evolutie ervan te laten zien 
+
+PS morgen spelling check ik alles heb dislectie en gebruik altijd de prompt op chat gpt "kun jij die gramaticaal recht trekken zonder er iets aan toe te voegen"
 
 
 ### [...]
