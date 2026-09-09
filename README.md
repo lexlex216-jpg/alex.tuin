@@ -63,11 +63,31 @@ Uiteindelijk wil ik dat mijn Digital Garden voelt als een soort **kleine interac
 + ik heb vandaag de html presentatie gemaakt 
 
 9/9 
+inde ochtend hebben wij onze html presentatie gegevne die ging goed hier onder de uit komst van 
+Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? : dat ik de game geschiedenis wil laten zien van games en consoles 
+
+Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?: dat ik hem wel webby moet maken 
+
+Heeft 'de ander' een aanvulling op je onderwerp? niet persee
+
+Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.) 
+vrolijk, dynamisch 
+
+Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.  
+retro en inresant 
+
+
 vandaag hebben we een visual thinking gedaan 
 ik heb hier best wat aan gehad ik had als sfeer woord(en):nostalgische, new scool, ontwikkelling (evolutionair) gekozen en dit als omschrijving: Ik kies dit woord(en) omdat: mijn onderwerp game geschiedenis dus je zal
 als je al lang video spellen speelt of dat uberhaupt doet heel wat nostalgiesche dingen voorbij zien komen maar natuurlijk ook recente spellen want ik wil de gehelen tijdlijn behandelen tot het heden 
 
-de eerste stap was 
+de eerste stap was het verzamelen van foto's die de sfeer woorden pasten( hier komt nog een screen shot )
+de tweede stap was het bekijken wat er qua typografie pooster bij pasten dit vond ik goed gelukt omdat ik de fotos heb kunnen vertalen anar een sfeer met en duidelijke kant die ik op wil gaan namelijk de evolutionaire kant van de game wereld speciefiek oud vs nieuw ( hier komt nog een screen shot )
+de derde stap was de onderbouwing van de gekozen afbeeldingen zie screenshots ( komen nog )  
+
+en uitwiedleijk hebben wij hier een crazy 8 op gedaan die zal ik ook toevoegen 
+
+vrijdag zal mijn werk erop gezet worden want vgm is er wat mis gegaan met het linken van mijn vs code met git hub want kan wel typen maar geen werk hier aan toevoegen qua plaatjes
 
 
 
