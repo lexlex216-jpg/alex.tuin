@@ -63,43 +63,48 @@ Uiteindelijk wil ik dat mijn Digital Garden voelt als een soort **kleine interac
 + ik heb vandaag de html presentatie gemaakt 
 
 9/9 
-inde ochtend hebben wij onze html presentatie gegevne die ging goed hier onder de uit komst van 
-Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? : dat ik de game geschiedenis wil laten zien van games en consoles 
+In de ochtend hebben wij onze HTML-presentatie gegeven. Die ging goed. Hieronder de uitkomst van de presentatie:
 
-Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?: dat ik hem wel webby moet maken 
+Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?
+Dat ik de gamegeschiedenis wil laten zien van games en consoles.
 
-Heeft 'de ander' een aanvulling op je onderwerp? niet persee
+Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?
+Dat ik hem wel webby moet maken.
 
-Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.) 
-vrolijk, dynamisch 
+Heeft 'de ander' een aanvulling op je onderwerp?
+Niet per se.
 
-Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.  
-retro en inresant 
+Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)
+Vrolijk, dynamisch.
 
+Welke inspiratie kun je uit je 25 afbeeldingen halen? Stijl, een gevoel, vorm, enz.
+Retro en interessant.
 
-vandaag hebben we een visual thinking gedaan 
-ik heb hier best wat aan gehad ik had als sfeer woord(en):nostalgische, new scool, ontwikkelling (evolutionair) gekozen en dit als omschrijving: Ik kies dit woord(en) omdat: mijn onderwerp game geschiedenis dus je zal
-als je al lang video spellen speelt of dat uberhaupt doet heel wat nostalgiesche dingen voorbij zien komen maar natuurlijk ook recente spellen want ik wil de gehelen tijdlijn behandelen tot het heden 
+Vandaag hebben we een Visual Thinking gedaan. Ik heb hier best wat aan gehad. Ik had als sfeerwoorden: nostalgisch, new school, ontwikkeling (evolutionair) gekozen en dit als omschrijving:
 
-de eerste stap was het verzamelen van foto's die de sfeer woorden pasten( hier komt nog een screen shot )
-de tweede stap was het bekijken wat er qua typografie pooster bij pasten dit vond ik goed gelukt omdat ik de fotos heb kunnen vertalen anar een sfeer met en duidelijke kant die ik op wil gaan namelijk de evolutionaire kant van de game wereld speciefiek oud vs nieuw ( hier komt nog een screen shot )
-de derde stap was de onderbouwing van de gekozen afbeeldingen zie screenshots ( komen nog )  
+Ik kies dit woord(en) omdat:
+Mijn onderwerp is gamegeschiedenis, dus je zal, als je al lang videogames speelt of dat überhaupt doet, heel wat nostalgische dingen voorbij zien komen. Maar natuurlijk ook recente spellen, want ik wil de gehele tijdlijn behandelen tot het heden.
 
-en uitwiedleijk hebben wij hier een crazy 8 op gedaan die zal ik ook toevoegen 
+De eerste stap was het verzamelen van foto's die bij de sfeerwoorden pasten (hier komt nog een screenshot).
 
-vrijdag zal mijn werk erop gezet worden want vgm is er wat mis gegaan met het linken van mijn vs code met git hub want kan wel typen maar geen werk hier aan toevoegen qua plaatjes
+De tweede stap was het bekijken wat er qua typografie en poster bij paste. Dit vond ik goed gelukt, omdat ik de foto's heb kunnen vertalen naar een sfeer met een duidelijke kant die ik op wil gaan, namelijk de evolutionaire kant van de gamewereld, specifiek oud vs. nieuw (hier komt nog een screenshot).
+
+De derde stap was de onderbouwing van de gekozen afbeeldingen. Zie screenshots (komen nog).
+
+En uiteindelijk hebben wij hier een Crazy 8 op gedaan. Die zal ik ook toevoegen.
+
+Vrijdag zal mijn werk erop gezet worden, want volgens mij is er wat misgegaan met het linken van mijn VS Code met GitHub. Ik kan wel typen, maar geen werk hieraan toevoegen qua plaatjes.
 
 Check-out
-Leg uit waar het Visual Research in 3 stappen naartoe werkt
-het visualieseren van een idee uit een sfeer word dus je begint bij heel veel plaatjes zoeken daarna probeer je die plaatjes i typografie kleuren en expresiie te uiten en als laatsen ga je daarme een crazy 8 doen om zo ideene te formuleren 
 
-Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
-ik wil in mijn garden de evolutie van games en consoles laten zien door middel van een tijd lijn met aniematies kleuren en dingen die bij de aangedeuten tijd perken passen 
+Leg uit waar het Visual Research in 3 stappen naartoe werkt.
+Het visualiseren van een idee uit een sfeerwoord. Dus je begint bij heel veel plaatjes zoeken, daarna probeer je die plaatjes in typografie, kleuren en expressie te uiten en als laatste ga je daarmee een Crazy 8 doen om zo ideeën te formuleren.
 
-Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
-mijn 6e idee vind die het leuskt hij is nu erg snel geshcetst maar wil een informatiefen pagina make met game personages die als je er op klikt vertellen hoe zij vroeger war en tegewoordig om zo de evolutie ervan te laten zien 
+Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz.).
+Ik wil in mijn Garden de evolutie van games en consoles laten zien door middel van een tijdlijn met animaties, kleuren en dingen die bij de aangeduide tijdperken passen.
 
-PS morgen spelling check ik alles heb dislectie en gebruik altijd de prompt op chat gpt "kun jij die gramaticaal recht trekken zonder er iets aan toe te voegen"
+Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/verder zou willen onderzoeken.
+Mijn 6e idee vind ik het leukst. Hij is nu erg snel geschetst, maar ik wil een informatieve pagina maken met gamepersonages die, als je erop klikt, vertellen hoe zij vroeger waren en tegenwoordig, om zo de evolutie ervan te laten zien.
 
 
 ### [...]
