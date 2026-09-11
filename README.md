@@ -11,10 +11,10 @@ ik was ziek maandag dus heb het zelfstandig gadaan
 onderzoek naar waar mijn digital garden over moet gaan 
 Mijn Digital Garden – De geschiedenis van videogames
 
-Voor mijn Digital Garden wil ik het hebben over de **geschiedenis van videogames**. Ik vind het interessant om te zien hoe games door de jaren heen zijn veranderd. Vroeger had je bijvoorbeeld simpele games zoals *Pong*, terwijl je nu enorme open-world games en VR-games hebt. Ik vind het vooral interessant om te kijken hoe technologie ervoor heeft gezorgd dat games steeds uitgebreider zijn geworden.
+Voor mijn Digital Garden wil ik het hebben over de geschiedenis van videogames. Ik vind het interessant om te zien hoe games door de jaren heen zijn veranderd. Vroeger had je bijvoorbeeld simpele games zoals Pong, terwijl je nu enorme open-world games en VR-games hebt. Ik vind het vooral interessant om de evolutie van ooud naar nieuw weer te geven en alles wat daar bij komt kijken.
 
 - Toon en doel
-Ik wil dat mijn website een beetje speels en persoonlijk aanvoelt. Het moet niet voelen alsof je een Wikipedia-pagina aan het lezen bent. Ik wil naast de informatie ook mijn eigen mening en ervaringen met games erin verwerken.
+Ik wil dat mijn website een beetje speels informatief overkomt. Het moet niet voelen alsof je een Wikipedia-pagina aan het lezen bent. 
 
 Mijn doel is vooral om de geschiedenis van videogames op een leuke manier te laten zien. Ik wil dat iemand door de website kan rondkijken en steeds nieuwe dingen ontdekt, in plaats van alleen maar een lange tekst te lezen.
 
@@ -29,24 +29,23 @@ Er zijn ook dingen die ik nog niet goed kan, zoals uitgebreide JavaScript-animat
 Ik zou verschillende onderwerpen over de geschiedenis van videogames kunnen behandelen. Bijvoorbeeld:
 
 * De eerste videogames en arcadekasten.
-* De opkomst van Nintendo, PlayStation en Xbox.
+* Nintendo, PlayStation en Xbox.
 * De ontwikkeling van graphics.
-* Bekende games die belangrijk zijn geweest voor de industrie.
+* Bekende games die belangrijk zijn geweest voor de evolutie.
 * De overgang van 2D naar 3D.
-* De ontwikkeling van online gaming.
+* De ontwikkeling naar online gaming.
 * De opkomst van mobiele games en VR.
-* Games die ik zelf leuk vind en waarom.
 
-Ik wil hierbij niet alleen vertellen **wat** er gebeurde, maar ook waarom bepaalde ontwikkelingen belangrijk waren. Daarnaast kan ik mijn eigen ervaringen met bepaalde games toevoegen. Bijvoorbeeld een game die ik vroeger veel speelde en wat ik daar nu anders aan vind.
+Ik wil hierbij niet alleen vertellen wat er gebeurde, maar ook waarom bepaalde ontwikkelingen belangrijk waren. Daarnaast kan ik mijn eigen ervaringen met bepaalde games toevoegen. Bijvoorbeeld een game die ik vroeger veel speelde en hoe die nu nog nieuwe nieuwe versies heeft en hoe ik dat ervaar .
 
 - Gebruik van content van anderen
 
-Voor sommige informatie en afbeeldingen zal ik gebruik moeten maken van andere bronnen. Ik wil hierbij goed opletten of ik afbeeldingen zomaar mag gebruiken. Waar nodig gebruik ik rechtenvrije afbeeldingen of vermeld ik de bron.
+Voor sommige informatie en afbeeldingen zal ik gebruik moeten maken van andere bronnen. Ik wil hierbij goed opletten of ik afbeeldingen zomaar mag gebruiken. als het moet gebruik ik non copy right afbeeldingen of ik vermeld de bron erbij.
 
-De informatie van andere websites wil ik vooral gebruiken als basis voor mijn eigen verhaal. Ik wil niet simpelweg teksten kopiëren, maar de informatie zelf onderzoeken en vervolgens op mijn eigen manier uitleggen.
+De informatie van andere websites wil ik vooral gebruiken als basis voor mijn eigen verhaal. ik wil het niet letterlijk copy pasten maar zal er mijn eigen verhaal van maken .
 
 - Hoe wil ik dat je de website ervaart?
-Ik wil verder gaan dan alleen tekst en afbeeldingen. De bezoeker moet de geschiedenis van videogames ook een beetje **kunnen ervaren**.
+Ik wil verder gaan dan alleen tekst en afbeeldingen. De bezoeker moet de geschiedenis van videogames ook een beetje kunnen ervaren doormiddel van animaties en heel mischien een spelletje erin voegen als dat mogelijk is.
 
 Bijvoorbeeld door:
 
@@ -58,9 +57,8 @@ Bijvoorbeeld door:
 
 Ook zou ik het leuk vinden als verschillende periodes hun eigen uitstraling krijgen. Een pagina over de jaren 80 kan bijvoorbeeld veel meer een retro/pixel-uitstraling hebben, terwijl een pagina over moderne games er juist futuristischer uitziet.
 
-Uiteindelijk wil ik dat mijn Digital Garden voelt als een soort **kleine interactieve reis door de geschiedenis van videogames**, waarin je niet alleen informatie leest, maar ook zelf dingen kunt ontdekken.
+Uiteindelijk wil ik dat mijn Digital Garden voelt als een soort kleine interactieve reis door de geschiedenis van videogames, waarin je niet alleen informatie leest, maar ook zelf dingen kunt ontdekken.
 
-+ ik heb vandaag de html presentatie gemaakt 
 
 9/9 
 In de ochtend hebben wij onze HTML-presentatie gegeven. Die ging goed. Hieronder de uitkomst van de presentatie:
