@@ -104,6 +104,9 @@ Ik wil in mijn Garden de evolutie van games en consoles laten zien door middel v
 Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/verder zou willen onderzoeken.
 Mijn 6e idee vind ik het leukst. Hij is nu erg snel geschetst, maar ik wil een informatieve pagina maken met gamepersonages die, als je erop klikt, vertellen hoe zij vroeger waren en tegenwoordig, om zo de evolutie ervan te laten zien.
 
+10/09/2026
+vaandaag heb ik 5 mobile first schetsen gemaakt + mijn eerste html opzet gemaakt en de deep dive gedaan 
+
 
 ### [...]
 
