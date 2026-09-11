@@ -26,7 +26,7 @@ Voor mijn eigen website zou ik bijvoorbeeld graag een **interactieve tijdlijn** 
 Er zijn ook dingen die ik nog niet goed kan, zoals uitgebreide JavaScript-animaties en interactieve onderdelen. Dat lijkt mij juist interessant om tijdens dit project uit te proberen.
 
 - Welke content wil ik maken?
-Ik zou verschillende onderwerpen over de geschiedenis van videogames kunnen behandelen. Bijvoorbeeld:
+Ik zou verschillende onderwerpen over de geschiedenis van videogames willen behandelen. Bijvoorbeeld:
 
 * De eerste videogames en arcadekasten.
 * Nintendo, PlayStation en Xbox.
