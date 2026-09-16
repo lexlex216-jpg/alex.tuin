@@ -198,7 +198,7 @@ De derde stap was de onderbouwing van de gekozen afbeeldingen. Zie screenshots (
 <img src="onderbouwing.png" alt="Game Museum" style="display: block; margin: 0 auto;">
 
 En uiteindelijk hebben wij hier een Crazy 8 op gedaan. Die zal ik ook toevoegen.
-
+<img src="crazy 8 .png" alt="Game Museum" style="display: block; margin: 0 auto;">
 Vrijdag zal mijn werk erop gezet worden, want volgens mij is er wat misgegaan met het linken van mijn VS Code met GitHub. Ik kan wel typen, maar geen werk hieraan toevoegen qua plaatjes.
 
 Check-out
