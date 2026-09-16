@@ -215,6 +215,45 @@ Mijn 6e idee vind ik het leukst. Hij is nu erg snel geschetst, maar ik wil een i
 10/09/2026
 vaandaag heb ik 5 mobile first schetsen gemaakt + mijn eerste html opzet gemaakt en de deep dive gedaan
 
+11/09/2026
+ben verder gaan werken aan mijn html opzet
+
+12/092026 vandaag hebben we feed
+Feedback
+Wat weet je nu wat je hiervoor niet wist meenemen in je learning log
+
+In de gradiënt oefeningen zitten opdrachten waar je iets aan hebt om je Pacman te maken. Het is niet hetzelfde als een echte, maar het laat wel zien dat je de stof gebruikt.
+
+Je bent niet goed in html/css omdat je de stof niet hebt gehad, dus het komt goed. Blijf conceptualiseren en schetsen, om hier beter in te worden. Het maken van verschillende schetsen is essentieel omdat je ontwerp hier beter van wordt, daarnaast helpt het bij het uitleggen van je concept. Omdat je dan vanuit je schetsen kan onderbouwen.
+
+Eigenwijsheid is ook een goede eigenschap, je hoef niet altijd de feedback van andere te gebruiken. Probeer af en toe een middenweg te zoeken in je eigenwijsheid.
+
+14/09/2026
+leg uit waneer een website lelijk wordt
+gensoeg css gebruike n ee n zorgen dat het responsive is
+
+vertell welke volgedne stap je wil nemen om je website responsive te maken
+het kleiner maken en grooter maken bij inzoomen
+
+kun je het ontwerp en de bouw van je garden vertellen
+al ik de lijst erbij houd wel
+check out maandag
+
+16/09/2026
+Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
+
+- closure : en visuele conectie tussen die niet conected zijn met elkaar maar doorat ze door zo staan lijkt het 1 vorm
+- symetry : objecten zijn het zelfde
+- proximety : objecten worden 1 geheel als je ze dicht bij mekaar laat komen
+
+Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
+
+- een grid is een box waar content in staat er je browser deelt het zelf 1 + je kan het makelijkst positioneering plaatsen
+
+Welk principe neem je mee in een laatste iteratie van je eigen Garden?
+
+- symetry en ga morgen grids er aan toevoegen herarachie
+
 [...]
 
 ### 3 sept - [Workshop]
